@@ -727,6 +727,7 @@ template {
 
 .modal {
     overflow-y: auto;
+    overflow-x: hidden;
     height: 0;
     opacity: 0;
     z-index: -2;
