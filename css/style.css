@@ -681,11 +681,11 @@ template {
 }
 
 .hot__toys {
+    position: absolute;
+    bottom: 0;
     display: none;
     margin-top: auto;
     width: 407px;
-    -ms-transform: translateY(-66px);
-        transform: translateY(-66px);
 }
 
 .hot__two-girls {
